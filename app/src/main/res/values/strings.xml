@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="Term">Term</string>
+    <string name="Search">Search</string>
+    <string name="TermDescription">Enter a term to search for songs</string>
+    <string name="ScrollbarDescription">List of songs</string>
+    <string name="ArtworkDescription">Artwork of song</string>
+    <string name="MediaButtonDescription">Button for download, play or pause songs</string>
+</resources>

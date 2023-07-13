@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="Term">Termino</string>
+    <string name="Search">Buscar</string>
+    <string name="TermDescription">Ingresa un término para buscar canciones</string>
+    <string name="ScrollbarDescription">Lista de canciones</string>
+    <string name="ArtworkDescription">Caratula de la canción</string>
+    <string name="MediaButtonDescription">Boton para descargar, reproducir o pausar canciones</string>
+</resources>
